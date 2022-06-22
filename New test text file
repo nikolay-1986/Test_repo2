@@ -1,0 +1,59 @@
+element.style {
+}
+body.srp, body {
+    background: #202124;
+}
+@media (max-width: 1300px)
+.srp {
+    --rhs-margin: 44px;
+}
+@media (max-width: 1121px)
+.srp {
+    --center-abs-margin: 28px;
+}
+.srp {
+    --center-abs-margin: 180px;
+    --center-width: 652px;
+    --rhs-margin: 60px;
+    --rhs-width: 369px;
+}
+body {
+    margin: 0;
+    color: #bdc1c6;
+}
+
+body, h1 {
+    font-size: 14px;
+}
+html, body, h1, input, select {
+    font-family: arial,sans-serif;
+}
+body[Attributes Style] {
+    margin-bottom: 3px;
+    margin-top: 3px;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+
+ckground-color rgb(36, 41, 46)
+background-image url(https://desktop.github.com/images/star-bg.svg), linear-gradient(rgb(25, 28, 32), rgb(36, 41, 46) 15%)
+background-position-x 50%, 0px
+background-position-y 0px, 0px
+background-repeat-x
+background-repeat-y
+box-sizing border-box
+color rgba(255, 255, 255, 0.65)
+display block
+font-family -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"
+font-size 14px
+height 2672.68px
+line-height 21px
+margin-bottom 0px
+margin-left 0px
+margin-right 0px
+margin-top 0px
+text-size-adjust 100%
+width 761.6px
