@@ -37,23 +37,3 @@ body {
     display: block;
     margin: 8px;
 }
-
-ckground-color rgb(36, 41, 46)
-background-image url(https://desktop.github.com/images/star-bg.svg), linear-gradient(rgb(25, 28, 32), rgb(36, 41, 46) 15%)
-background-position-x 50%, 0px
-background-position-y 0px, 0px
-background-repeat-x
-background-repeat-y
-box-sizing border-box
-color rgba(255, 255, 255, 0.65)
-display block
-font-family -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"
-font-size 14px
-height 2672.68px
-line-height 21px
-margin-bottom 0px
-margin-left 0px
-margin-right 0px
-margin-top 0px
-text-size-adjust 100%
-width 761.6px
